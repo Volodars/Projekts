@@ -75,4 +75,4 @@ elif edienkarte==4 : print("Edienkartes sastava bus cepta gala un darzeni")
 elif edienkarte==5 : print("Edienkartes sastava bus viestmaizes un salati")
 elif edienkarte==6 : print("Edienkartes sastava bus kokogles folijas kartupeli un svaigi darzeni") 
 elif edienkarte==7 : print("Edienkartes sastava bus picca")
-
+print(" ")
