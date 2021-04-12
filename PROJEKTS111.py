@@ -9,8 +9,8 @@ cilveki=int(input("Kads bus viesu skaits? - "))
 laiks=int(input("Cik stundas tu velies svinet savu dzimsanas dienu? - "))
 vieta=int(input("Kur jus gribetu svinet savu dzimsanas dienu? Telpa (1) vai daba (2) raksti ciparu - ")) # ( Kafeinica, Izklaides_centrs, Orendeta_maja, Daba )
 
-if vieta==1: vietaa=int(input("Var svinet kafeinica (1), izklaides centra (2) vai orendetaja maja (3). Raksti ciparu, kur tu velies svinet - ")) #edieni 
-elif vieta==2: print("Var svinet telta (1), pie ezera (2) vai izklaides centra meza (3). Raksti ciparu, kur tu velies svinet - ")) ") #ieeja katram cilvekam 5 eiro
+if vieta==1: vietaa=int(input("Var svinet kafeinica (1), izklaides centra (2) vai orendetaja maja (3). Raksti ciparu, kur tu velies svinet - "))
+elif vieta==2: print("Var svinet telta (1), pie ezera (2) vai izklaides centra meza (3). Raksti ciparu, kur tu velies svinet - ")) ")
 
 dzerieni=input("Vai bus vajadzigi dzerieni? Ja vai Ne ") #viens 3 eiro
 
